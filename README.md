@@ -19,7 +19,8 @@ Our solution,CardioVista,tackles this challenge by employing SVM and logistic re
  This optimized approach enhances accuracy in prognosis. On the front end, we prioritize user efficiency by incorporating alerts and presenting personalized wellness plans for at-risk patients. 
 The preventive measures integrated into the system ensure a comprehensive approach to cardiac health, making our solution both predictive and proactive for improved patient outcomes.
 
-## 
+## MACHINE LEARNING MODEL
+Refer the code from uploaded files
 
 
 
